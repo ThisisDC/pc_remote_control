@@ -1,0 +1,7 @@
+{
+  "token": "YOUR_BOT_TOKEN",
+  "bot_name": "TeleBot",
+  "group_id": 0000000000,
+  "settings": { "time_to_wait": 0 },
+  "url_commands": []
+}
